@@ -8,4 +8,4 @@ LocA helps you quickly extract origin-accident point-destination routes by deriv
 1. Set up your environment
 
 2. Download Sample Data
-   :scream_cat: Place these files in the "Inference" folder.
+- :scream_cat: Place these files in the "Inference" folder.
