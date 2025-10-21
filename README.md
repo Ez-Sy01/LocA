@@ -7,7 +7,7 @@
 
 
 
-# Description
+## Description
 > LocA helps you quickly extract origin-accident point-destination routes by deriving coordinates from text-based data.
 
 1. Set up your virtual environment(conda env)
@@ -35,5 +35,5 @@ tqdm==4.67.1
 
 &emsp; `pip install -r requirements.txt`
 
-# Changelog
+## Changelog
 > 10.2025: Release of LocA-v.1.0.0
