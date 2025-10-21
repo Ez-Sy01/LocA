@@ -15,8 +15,8 @@ LocA helps you quickly extract origin-accident point-destination routes by deriv
    
 - :scream_cat: Place these files in the "Samples" folder.
 
-3. Install Dependencies<\br>
-
+3. Install Dependencies
+   
 &emsp;For Windows: 
 ```
 
