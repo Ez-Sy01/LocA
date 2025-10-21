@@ -26,3 +26,5 @@ requests==2.32.5
 shapely==2.1.2
 tqdm==4.67.1
 ```
+# Changelog
+&emsp; 10.2025: Release of LocA-v.1.0.0
