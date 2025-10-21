@@ -8,7 +8,11 @@ LocA helps you quickly extract origin-accident point-destination routes by deriv
 1. Set up your virtual environment(conda env)
 
 &emsp; `conda create -n LocA python=3.10.0`
-3. Download Sample Data
+
+
+2. Download Sample Data
+
+   
 - :scream_cat: Place these files in the "Samples" folder.
 
 3. Install Dependencies<\br>
