@@ -1,5 +1,5 @@
-# LocA(Location-AMI) [!https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+# LocA(Location-AMI)![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 > LocA : Automated Coordinate Correction and Route Calculation Project by AMI Lab
 
 
