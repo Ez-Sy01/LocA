@@ -31,4 +31,4 @@ tqdm==4.67.1
 &emsp; `pip install -r requirements.txt`
 
 # Changelog
- > &emsp; 10.2025: Release of LocA-v.1.0.0
+> 10.2025: Release of LocA-v.1.0.0
