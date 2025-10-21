@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=29&duration=2000&pause=1000&color=F702E5&background=FFFFFF&center=true&vCenter=true&width=435&lines=LocA(Location-AMI))](https://git.io/typing-svg)
 # LocA(Location-AMI) ![Downloads](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)
 
 <div align = "left">
