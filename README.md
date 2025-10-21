@@ -1,4 +1,4 @@
-# LocA(Location-AMI)  ![Downloads](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)
+# LocA(Location-AMI)  <div align = "right"> ![Downloads](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)</div>
 
 <div align = "left">
 <img alt="anaconda" src ="https://img.shields.io/badge/anaconda-44A833.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="kakao" src ="https://img.shields.io/badge/kakao-FFCD00.svg?&style=flat-square&logo=Python&logoColor=white"/>
