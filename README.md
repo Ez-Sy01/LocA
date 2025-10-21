@@ -19,5 +19,10 @@ LocA helps you quickly extract origin-accident point-destination routes by deriv
    
 &emsp;For Windows: 
 ```
-
+openpyxl==3.1.5
+osmnx==2.0.6
+pandas==2.3.3
+requests==2.32.5
+shapely==2.1.2
+tqdm==4.67.1
 ```
