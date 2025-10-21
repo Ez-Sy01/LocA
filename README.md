@@ -13,7 +13,7 @@ LocA : Automated Coordinate Correction and Route Calculation Project by AMI Lab
 2. Download Sample Data
 
    
-> :scream_cat: Place these files in the "Samples" folder.
+- :scream_cat: Place these files in the "Samples" folder.
 
 3. Install Dependencies
    
