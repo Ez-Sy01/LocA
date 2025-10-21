@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=29&duration=2000&pause=1000&color=F702E5&background=FFFFFF&center=true&vCenter=true&width=435&lines=LocA(Location-AMI))](https://git.io/typing-svg)
+https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=LocA(Location-AMI)&descAlign=50&descAlignY=50&fontAlign=50&animation=fadeIn&reversal=false&section=header
+
 # LocA(Location-AMI) ![Downloads](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)
 
 <div align = "left">
