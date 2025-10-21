@@ -1,7 +1,7 @@
 # LocA(Location-AMI)  ![Downloads](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)
 
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img alt="kakao" src ="https://img.shields.io/badge/kakao-#FFCD00.svg?&style=flat-square&logo=Python&logoColor=white"/>
+<img alt="kakao" src ="https://img.shields.io/badge/kakao-FFCD00.svg?&style=flat-square&logo=Python&logoColor=white"/>
 # Description
 > LocA helps you quickly extract origin-accident point-destination routes by deriving coordinates from text-based data.
 
