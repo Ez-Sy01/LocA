@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=LocA(Location-AMI)&descAlign=50&descAlignY=50&fontAlign=50&animation=fadeIn&reversal=false&section=header)
+https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=LocA(Location-AMI)&descAlign=50&descAlignY=50&fontAlign=50&animation=fadeIn&reversal=false&section=header&fontColor=000000
 # LocA ![Downloads](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)
 
 <div align = "left">
