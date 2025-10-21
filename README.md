@@ -3,6 +3,13 @@
  
 <img alt="anaconda" src ="https://img.shields.io/badge/anaconda-44A833.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="kakao" src ="https://img.shields.io/badge/kakao-FFCD00.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinLib&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
+</div>
+
+
 # Description
 > LocA helps you quickly extract origin-accident point-destination routes by deriving coordinates from text-based data.
 
